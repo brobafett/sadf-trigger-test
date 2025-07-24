@@ -3,3 +3,4 @@ steps:
   args: ['echo', 'SUCCESS: The new trigger is working!']
 # Test 1
 Lips
+Hips
