@@ -2,3 +2,4 @@ steps:
 - name: 'gcr.io/cloud-builders/gcloud'
   args: ['echo', 'SUCCESS: The new trigger is working!']
 # Test 1
+Lips
